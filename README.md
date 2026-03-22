@@ -1,0 +1,1 @@
+# Projeto-da-Disciplina-Aplica-o-de-Intelig-ncia-Artificial-em-Problema-Real-
