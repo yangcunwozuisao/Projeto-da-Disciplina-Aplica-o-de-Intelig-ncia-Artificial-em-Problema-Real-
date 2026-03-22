@@ -29,7 +29,7 @@ O projeto foi desenvolvido seguindo um pipeline de dados:
 
 ---
 
-## 📁 Estrutura do Projeto
+## Estrutura do Projeto
 
     projeto/
     │ README.md
