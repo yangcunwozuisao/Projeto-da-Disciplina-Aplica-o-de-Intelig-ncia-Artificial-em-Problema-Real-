@@ -4,7 +4,7 @@ from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
 from tqdm import tqdm
 
-API_KEY = "AIzaSyBjHKoD9uHaeNVIcU33CBVXw02x9xf7evU"
+API_KEY = "Chave da Youtube Data Api"
 QUERY = "unboxing"
 PUBLISHED_AFTER = "2015-01-01T00:00:00Z"
 PUBLISHED_BEFORE = "2026-12-31T23:59:59Z"
