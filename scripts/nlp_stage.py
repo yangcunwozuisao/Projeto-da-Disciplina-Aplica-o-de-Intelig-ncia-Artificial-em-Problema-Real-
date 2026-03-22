@@ -1,3 +1,20 @@
+"""
+Projeto: Análise de Comentários do YouTube com IA
+
+Integrantes:
+- Daniel Zou – RA: 10418211
+- Danilo Ye – RA: 10417890
+- Igor Shirata Duarte – RA: 10418106
+
+Descrição:
+Este script faz parte do pipeline do projeto, sendo responsável por uma etapa específica do processamento de dados.
+
+Histórico:
+- 20/03/2026 – Danilo – Criação do script
+- 21/03/2026 – Daniel – Ajustes e melhorias
+- 22/03/2026 – Igor – Revisão final
+"""
+
 # file: nlp_stage.py
 
 import os
